@@ -3,13 +3,13 @@
     "name": "Suliya & Jingxing Li",
     "avatar": "/images/avatar.jpg",
     "shortBio": "Generative Artists"
-    // "socials": [
-    //   { "icon": "FaHome", "url": "https://mike.gold" },
-    //   { "icon": "FaTwitter", "url": "https://twitter.com/michaelgold" },
-    //   { "icon": "FaGithub", "url": "https://github.com/michaelgold" },
-    //   { "icon": "FaLinkedin", "url": "https://linkedin.com/in/gold1" },
-    //   { "icon": "FaUniversity", "url": "https://sva.edu/faculty/michael-gold" }
-    // ]
+    "socials": [
+      // { "icon": "FaHome", "url": "https://mike.gold" },
+      // { "icon": "FaTwitter", "url": "https://twitter.com/michaelgold" },
+      // { "icon": "FaGithub", "url": "https://github.com/michaelgold" },
+      // { "icon": "FaLinkedin", "url": "https://linkedin.com/in/gold1" },
+      // { "icon": "FaUniversity", "url": "https://sva.edu/faculty/michael-gold" }
+    ]
   },
   "project": {
     "name": "AR Gallery Example"
