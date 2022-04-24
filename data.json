@@ -46,13 +46,13 @@
       ]
     },
     {
-      "name": "Green Cube",
-      "glbFile": "/assets/green-cube.glb",
+      "name": "Orange Flower",
+      "glbFile": "/assets/orange-flower.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "shape", "value": "flower" },
+        { "trait_type": "pedal size", "value": "S" },
+        { "trait_type": "pedal color", "value": "orange" },
+        { "trait_type": "pedal angle", "value": "S" }
       ]
     }
   ]
