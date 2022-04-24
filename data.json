@@ -20,29 +20,29 @@
       "glbFile": "/assets/pink-flower.glb",
       "attributes": [
         { "trait_type": "shape", "value": "flower" },
-        { "trait_type": "pedal size", "value": "medium" },
+        { "trait_type": "pedal size", "value": "L" },
         { "trait_type": "pedal color", "value": "pink" },
-        { "trait_type": "pedal angle", "value": "large" }
+        { "trait_type": "pedal angle", "value": "L" }
       ]
     },
     {
-      "name": "Silver Cube",
-      "glbFile": "/assets/silver-cube.glb",
+      "name": "Blue Flower",
+      "glbFile": "/assets/blue-flower.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "silver" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "shape", "value": "flower" },
+        { "trait_type": "pedal size", "value": "M" },
+        { "trait_type": "pedal color", "value": "blue" },
+        { "trait_type": "pedal angle", "value": "L" }
       ]
     },
     {
-      "name": "Red Cube",
-      "glbFile": "/assets/red-cube.glb",
+      "name": "Yellow Flower",
+      "glbFile": "/assets/yellow-flower.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "red" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "shape", "value": "flower" },
+        { "trait_type": "pedal size", "value": "S" },
+        { "trait_type": "pedal color", "value": "yellow" },
+        { "trait_type": "pedal angle", "value": "L" }
       ]
     },
     {
